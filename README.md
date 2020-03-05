@@ -1,7 +1,7 @@
 Tech Stack:
-NodeJS - 8.9.X
+NodeJS - 12.X
 npm - 6.4.X
-MongoDB - 3.4.x
+MongoDB - 4.2
 Redis - 4.x
 nginx - 1.12.x
 
