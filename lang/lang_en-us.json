@@ -1,0 +1,8 @@
+{
+  "m_comp_name": "Auth",
+  "m_psd_recover_sub": "Reset Password",
+  "m_dear": "Hi,",
+  "m_regards": "Regards,",
+  "m_psd_recover_msg_1": "You recently requested to reset your password. Please click the below link to reset your password.",
+  "m_psd_recover_msg_2": "Please ignore the email if you did not request a password recovery. The passowrd reset link will be valid for next 60 minutes."
+}
